@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6bbf17&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6bbf17&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+I'm+Rodrigo+Sartori;Just+Sartori+for+my+friends;I'm+Senior+Software+Developer;I'm+Spring+Specialist;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6bbf17&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+I'm+Rodrigo+Sartori;Just+Sartori+for+my+friends;I'm+Senior+Software+Engineer;I'm+Spring+Specialist;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sartori00&label=Profile%20views&color=0e75b6&style=flat" alt="sartori00" /> </p>
 
@@ -23,10 +23,10 @@
 </div>
 <br><br>
 
-- ✨ I'm 30 years old and I live in São Paulo / Brazil.
+- ✨ I'm 31 years old and I live in São Paulo / Brazil.
 - 🎓 I have a degree in IT Management and Internet Systems.
 - 💻 I have more than 10 years of IT experience, specifically for 6 years in software engineering with Java and Spring Boot.
-- 📑 I'm work as a Senior Software Enginner at Zappts
+- 📑 I'm work as a Senior Software Enginner at Itaú Unibanco
 
 <br><br>
 <div align="center">
