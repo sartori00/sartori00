@@ -25,14 +25,9 @@
 
 - ✨ I'm 31 years old and I live in São Paulo / Brazil.
 - 🎓 I have a degree in IT Management and Internet Systems.
+- ⚡ I'm studying at FIAP for Master's Degree in Software Architecture
 - 💻 I have more than 10 years of IT experience, specifically for 6 years in software engineering with Java and Spring Boot.
 - 📑 I'm work as a Senior Software Enginner at Itaú Unibanco
-
-<br><br>
-<div align="center">
-  <a href="https://github.com/sartori00">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sartori00&layout=compact&langs_count=7&theme=radical"/></a>
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,8 +35,18 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sartoridev/?locale=en_US)](https://www.linkedin.com/in/sartoridev/?locale=en_US) 
 [![Gmail Badge](https://img.shields.io/badge/-93sartori@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:93sartori@gmail.com)](mailto:93sartori@gmail.com)
 
+
+<br><br>
+<div align="center">
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@018eb6a6-b4f5-41c6-8dd7-dbc2b3ae9d7c/fdebd1f8-509e-42df-84f8-de437bfcc4c8.png"  alt="wakatime languages" width="600" height="465" /></a>
+  <br><br>
+  <a href="https://github.com/sartori00">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sartori00&layout=compact&langs_count=7&theme=radical"/></a>
+</div>
+
 <div align="center">
   
   ![Snake animation](https://github.com/AnaSousa314/AnaSousa314/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
