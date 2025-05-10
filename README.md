@@ -23,11 +23,11 @@
 </div>
 <br><br>
 
-- ✨ I'm 31 years old and I live in São Paulo / Brazil.
+- ✨ I'm 32 years old and I live in São Paulo / Brazil.
 - 🎓 I have a degree in IT Management and Internet Systems.
-- ⚡ I'm studying at FIAP for Master's Degree in Software Architecture
-- 💻 I have more than 10 years of IT experience, specifically for 6 years in software engineering with Java and Spring Boot.
-- 📑 I'm work as a Senior Software Enginner at Itaú Unibanco
+- ⚡ I have a postgraduate certificate in Software Architecture from FIAP (Faculdade de Informática e Administração Paulista).
+- 💻 I have more than 10 years of IT experience, specifically 7 years in software engineering with Java and Spring Boot.
+- 📑 I work as a Senior Software Engineer at Itaú Unibanco
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
