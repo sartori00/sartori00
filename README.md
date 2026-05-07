@@ -21,14 +21,16 @@
     <td border="0" align="center"><img alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"></td>
     <td border="0" align="center"><img alt="Insomnia" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"></td>
     <td border="0" align="center"><img alt="IntelliJ" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"></td>
+    <td border="0" align="center"><img alt="IntelliJ" height="40" width="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/claude-icon.svg"></td>
+  
   </tr>
 </table>
 <br><br>
 
-- ✨ I'm 32 years old and I live in São Paulo, Brazil.
+- ✨ I'm 33 years old and I live in São Paulo, Brazil.
 - 🎓 I have a degree in IT Management and Internet Systems.
 - ⚡ I hold a postgraduate certificate in Software Architecture from FIAP.
-- 💻 I have more than 10 years of experience in IT, including 8 years working with Java and Spring Boot.
+- 💻 I have more than 12 years of experience in IT, including 8 years working with Java and Spring Boot.
 - 📑 I work as a Senior Software Engineer at MercadoLibre.
 
 <h3 align="left">Connect with me:</h3>
